@@ -1,0 +1,319 @@
+[
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)"
+            },
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a small metal bowl containing a variety of dried fruits and nuts. Visible items include a dried fig, almonds, walnuts, and raisins. The bowl is placed on a dark fabric surface, possibly someone's lap.) with the following caption Dry fruits."
+            },
+            {
+                "role": "user",
+                "content": "Replied to the following message: \"Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)\", with: \"Methi dana done\""
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)'}, {'role': 'user', 'content': \"Sent an image (The image shows a small metal bowl containing a variety of dried fruits and nuts. Visible items include a dried fig, almonds, walnuts, and raisins. The bowl is placed on a dark fabric surface, possibly someone's lap.) with the following caption Dry fruits.\"}, {'role': 'user', 'content': 'Replied to the following message: \"Sent an image (The image shows a hand holding a small metal bowl containing yellowish-brown seeds soaked in water. The background includes a bed with a colorful bedsheet and a tiled wall.)\", with: \"Methi dana done\"'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n     Sent an image (The image shows a small bowl containing methi dana and water. The background includes a table with a light-colored tablecloth. The bowl is placed on the table.) with the following caption: Fenugreek seeds for PCOS management.",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a bowl of a yellow-orange colored dish, likely a type of porridge or savory pudding, with visible black mustard seeds and small pieces of vegetables. A spoon is placed inside the bowl, suggesting it is ready to be eaten. The bowl is placed on a light-colored surface.) with the following caption One bowl vegetable upma."
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a bowl of a yellow-orange colored dish, likely a type of porridge or savory pudding, with visible black mustard seeds and small pieces of vegetables. A spoon is placed inside the bowl, suggesting it is ready to be eaten. The bowl is placed on a light-colored surface.) with the following caption One bowl vegetable upma.'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n     Response: Enjoying one bowl Vegetable Upma! It's a filling and nutrient-dense dish made with semolina, vegetables, and flavored with mustard seeds.unting the dietary requirements, it is suitable for both PCOS management and vegetarian preferences. Please ensure the dish is well balanced with appropriate protein sources like lentils or chickpeas. Good for you! \ud83d\ude0a",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a close-up of a container with a mixture of food items. It appears to contain chunks of potatoes, oats, and possibly some nuts or seeds, all mixed in a creamy liquid. A spoon is partially visible, indicating that the food is ready to be eaten. The container is placed on a surface with a purple fabric underneath.) with the following caption Breakfast."
+            },
+            {
+                "role": "user",
+                "content": "And yesterday i skipped on dinner \nPhoto click krna bhul gyi thi but i had barley daliya"
+            },
+            {
+                "role": "user",
+                "content": "Today\u2019s weight after clearning stomach 73.4 kg"
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 29\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS with PCOS\nPatient Complaints - Difficulty in Conceiving, Facial Hairgrowth, Hair fall\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a close-up of a container with a mixture of food items. It appears to contain chunks of potatoes, oats, and possibly some nuts or seeds, all mixed in a creamy liquid. A spoon is partially visible, indicating that the food is ready to be eaten. The container is placed on a surface with a purple fabric underneath.) with the following caption Breakfast.'}, {'role': 'user', 'content': 'And yesterday i skipped on dinner \\nPhoto click krna bhul gyi thi but i had barley daliya'}, {'role': 'user', 'content': 'Today\u2019s weight after clearning stomach 73.4 kg'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n    Hello! It's great to see your continuity in maintaining a balanced diet. The breakfast you recently posted looks nutrient-dense and balanced with complex carbohydrates, proteins, and healthy fats. Remember to incorporate a variety of food groups daily to ensure you get all the essential nutrients your body needs.\n\n     Regarding your dinner last night, barley Daliya is also a good choice for dinner. With its low glycemic index",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a cup filled with milk. The cup has a design that resembles the texture of a tree trunk with visible rings and cracks. The cup is placed on a table with a colorful, possibly floral, tablecloth. In the background, there is a wooden cabinet with a pair of shoes on one of its shelves.) with the following caption 1 cup of milk without sugar only add one cardamom."
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a cup filled with milk. The cup has a design that resembles the texture of a tree trunk with visible rings and cracks. The cup is placed on a table with a colorful, possibly floral, tablecloth. In the background, there is a wooden cabinet with a pair of shoes on one of its shelves.) with the following caption 1 cup of milk without sugar only add one cardamom.'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n    1 cup of milk, warm and flavored with 1 cardamom could be an acceptable addition to your diet for a variety of reasons. Cardamom has been shown to have a number of health benefits, including aiding digestion and reducing bloating, which can be beneficial for those with PCOS. However, it's important to note that milk is high in calories and may not be suitable for everyone with PCOS due to insulin resistance. It's always advised",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a white mug filled with a red beverage, placed on a white plate with a blue decorative border. On the plate, there are several almonds and pieces of walnuts. The background appears to be a dark, textured surface.) with the following caption I have done \u2714\ufe0f 7:00am meal \ud83d\ude0b \ud83d\ude0d \ud83d\udc4c."
+            },
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a bowl of cereal with milk placed on a decorative plate. A spoon is partially visible in the bowl, and the setup is on a wooden surface. The cereal appears to be a type of flake cereal.)"
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 27\nPatient Preferred Language - ENGLISH\nPatient Conditions - Weight Management\nPatient Complaints - Irregular Periods\nDiet Preference - Nonveg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a white mug filled with a red beverage, placed on a white plate with a blue decorative border. On the plate, there are several almonds and pieces of walnuts. The background appears to be a dark, textured surface.) with the following caption I have done \u2714\ufe0f 7:00am meal \ud83d\ude0b \ud83d\ude0d \ud83d\udc4c.'}, {'role': 'user', 'content': 'Sent an image (The image shows a bowl of cereal with milk placed on a decorative plate. A spoon is partially visible in the bowl, and the setup is on a wooden surface. The cereal appears to be a type of flake cereal.)'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n    7:00am meal \ud83d\ude0b \ud83d\ude0d \ud83d\udc4c: That's a great balanced start to your day! \ud83c\udf31 Your red beverage seems to be a smoothie made with fruits rich in antioxidants, proteins from the almonds and walnuts should help with weight management. For your next meal, consider adding some low-fat dairy or soy milk in your smoothies for added calcium \ud83d\udcaa",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a stainless steel plate containing a serving of cooked food, which appears to be a grain-based dish with vegetables, possibly upma or khichdi. There is also a portion of green chutney or sauce on the side, and a spoon is placed on the plate.) with the following caption Beark fast."
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 45\nPatient Preferred Language - ENGLISH\nPatient Conditions - Weight Management with PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a stainless steel plate containing a serving of cooked food, which appears to be a grain-based dish with vegetables, possibly upma or khichdi. There is also a portion of green chutney or sauce on the side, and a spoon is placed on the plate.) with the following caption Beark fast.'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n     'Enjoying your Beark fast! The cooked dish appears to be a great source of carbohydrates and fiber, which is beneficial for weight management. The green chutney or sauce can likely provide additional vitamins and minerals, improving your overall nutritional intake to boost energy levels. Keep in mind, as a vegan, protein sources should come from beans, lentils, and nuts. Enjoy a serving of these alongside to ensure a balanced meal!",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a close-up of a bowl containing pomegranate seeds and almond slices. The bowl is metallic, and there is a spoon inside it. The background appears to be a tablecloth with a partial view of a colorful design.) with the following caption Pomegranate with 1 spoon seasme seeds and 1 spoon  sunflower seeds."
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a close-up of a bowl containing pomegranate seeds and almond slices. The bowl is metallic, and there is a spoon inside it. The background appears to be a tablecloth with a partial view of a colorful design.) with the following caption Pomegranate with 1 spoon seasme seeds and 1 spoon  sunflower seeds.'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n     This meal is a great choice! Pomegranate is rich in antioxidants, fiber, and vitamin C, while almonds provide healthy fats, protein, and fiber. Seasame seeds and sunflower seeds are also packed with essential minerals like magnesium and phosphorus. However, remember that pomegranate is high in sugar, so it's best to manage your portions. Enjoy your meal!",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "1 Nariyal Panni"
+            }
+        ],
+        "generated_response": "Patient Profile: Patient Preferred Language - ENGLISH\nPatient Conditions - Weight Management\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': '1 Nariyal Panni'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n    1 Nariyal Panni is a meal that contains coconut water. Although it is vegan and could be beneficial for weight management due to low calories, it is important to note that coconut water does contain carbohydrates and may affect blood sugar levels. It is essential to maintain a balanced diet and monitor your blood sugar levels regularly, especially if you are managing a condition like diabetes. Please consult with your healthcare provider to ensure this food fits within your specific dietary needs",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a plate with a few pieces of food, possibly idli, which is a type of South Indian steamed rice cake. There is also a small amount of white sauce or chutney on the plate. The plate has a simple design with a green dot and black lines. The background includes a colorful, floral-patterned tablecloth.) with the following caption Idly with chutney."
+            }
+        ],
+        "generated_response": "Patient Profile: Patient Preferred Language - ENGLISH\nPatient Conditions - Weight Management with Asthma, Hypertension\nPatient Complaints - Constipation\nDiet Preference - Nonveg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a plate with a few pieces of food, possibly idli, which is a type of South Indian steamed rice cake. There is also a small amount of white sauce or chutney on the plate. The plate has a simple design with a green dot and black lines. The background includes a colorful, floral-patterned tablecloth.) with the following caption Idly with chutney.'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n     bags of flavored Idlis, please. Here are some suggestions for flavorings that are asthma-friendly and can help manage your hypertension:\n\n1. Coriander-lime: This flavor adds a fresh, tangy twist to your Idlis. Coriander is believed to help manage asthma as it is packed with antioxidants and anti-inflammatory properties. Be cautious with the lime juice, as it",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a meal served on a metal plate. The meal includes:\n\n1. A stuffed paratha (Indian flatbread).\n2. A serving of green chutney.\n3. A bowl with three boiled eggs in a yellowish liquid, likely a curry.\n4. A bowl of sliced cucumbers.\n5. A glass of buttermilk or yogurt with herbs sprinkled on top.\n\nThe plate is placed on a patterned tablecloth.) with the following caption 2 Oats wheat roti add veggies.. and coriander chutni nd little onion sbji nd I added mint and cumin in  buttermilk."
+            },
+            {
+                "role": "user",
+                "content": "Wd salad"
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a meal served on a metal plate. The meal includes:\\n\\n1. A stuffed paratha (Indian flatbread).\\n2. A serving of green chutney.\\n3. A bowl with three boiled eggs in a yellowish liquid, likely a curry.\\n4. A bowl of sliced cucumbers.\\n5. A glass of buttermilk or yogurt with herbs sprinkled on top.\\n\\nThe plate is placed on a patterned tablecloth.) with the following caption 2 Oats wheat roti add veggies.. and coriander chutni nd little onion sbji nd I added mint and cumin in  buttermilk.'}, {'role': 'user', 'content': 'Wd salad'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n    2 Oats wheat roti add veggies, I suggest a vegetable stir-fry with a mix of bell peppers, zucchini, and carrots, to keep it colorful and nutritious. For the chutney, consider using carrot and coriander to maintain the diet. Instead of onions in the sabji, try using garlic or ginger to add flavor. For the buttermilk, you may continue using mint and",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a bowl with a floral pattern containing pieces of orange fruit, likely papaya, sprinkled with sesame seeds and sunflower seeds. There is a spoon in the bowl, suggesting the dish is ready to be eaten. The bowl is placed on a grey countertop.) with the following caption I have done \u2714\ufe0f meal 11:30am."
+            },
+            {
+                "role": "user",
+                "content": "Sent an image (This image is a detailed meal plan for Day 4, Friday, dated 14-06-2024. It outlines specific foods and beverages to be consumed at various times throughout the day, along with their quantities and some preparation instructions. The schedule includes:\n\n- **Early Morning (08:00 AM):** Cinnamon water, soaked almonds, and soaked walnuts.\n- **Breakfast (10:00 AM):** Apple cinnamon overnight oats.\n- **Mid Meal (11:00 AM):** Pomegranates and coconut water.\n- **Lunch (02:00 PM):** Bajra roti, plain toor dal, curd, and tomato cucumber salad.\n- **Evening (05:00 PM):** Spearmint tea, roasted kala chana, flax seeds, and pumpkin seeds.\n- **Dinner (08:00 PM):** Boiled sprouts with cucumber and tomato.\n- **Post Dinner (10:00 PM):** Jeera water.\n\nThe plan also includes some nutritional tips and preparation notes for each meal.)"
+            },
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a packet of milk from Mother Dairy placed on a countertop. In front of the milk packet, there is a bowl containing a mixture of seeds and nuts, possibly in yogurt or milk. The seeds and nuts include pumpkin seeds, flax seeds, and other assorted seeds.) with the following caption I have done before 30 minutes  drink  \ud83c\udf78 Buttermilk."
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 27\nPatient Preferred Language - ENGLISH\nPatient Conditions - Weight Management\nPatient Complaints - Irregular Periods\nDiet Preference - Nonveg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a bowl with a floral pattern containing pieces of orange fruit, likely papaya, sprinkled with sesame seeds and sunflower seeds. There is a spoon in the bowl, suggesting the dish is ready to be eaten. The bowl is placed on a grey countertop.) with the following caption I have done \u2714\ufe0f meal 11:30am.'}, {'role': 'user', 'content': 'Sent an image (This image is a detailed meal plan for Day 4, Friday, dated 14-06-2024. It outlines specific foods and beverages to be consumed at various times throughout the day, along with their quantities and some preparation instructions. The schedule includes:\\n\\n- **Early Morning (08:00 AM):** Cinnamon water, soaked almonds, and soaked walnuts.\\n- **Breakfast (10:00 AM):** Apple cinnamon overnight oats.\\n- **Mid Meal (11:00 AM):** Pomegranates and coconut water.\\n- **Lunch (02:00 PM):** Bajra roti, plain toor dal, curd, and tomato cucumber salad.\\n- **Evening (05:00 PM):** Spearmint tea, roasted kala chana, flax seeds, and pumpkin seeds.\\n- **Dinner (08:00 PM):** Boiled sprouts with cucumber and tomato.\\n- **Post Dinner (10:00 PM):** Jeera water.\\n\\nThe plan also includes some nutritional tips and preparation notes for each meal.)'}, {'role': 'user', 'content': 'Sent an image (The image shows a packet of milk from Mother Dairy placed on a countertop. In front of the milk packet, there is a bowl containing a mixture of seeds and nuts, possibly in yogurt or milk. The seeds and nuts include pumpkin seeds, flax seeds, and other assorted seeds.) with the following caption I have done before 30 minutes  drink  \ud83c\udf78 Buttermilk.'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n    \ud83c\udf7d\ufe0f Meal 1:15 PM: Sliced Grilled chicken salad with mixed greens, cherry tomatoes, and a drizzle of olive oil and balsamic vinegar dressing.\n    \ud83e\udd64 Before 3 PM drink: A glass of cucumber and mint infused water.\n    Enjoy your meal and stay healthy!",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a plate with a floral design containing several small, rectangular pieces of white cheese, likely paneer. The plate is placed on a surface with a patterned cloth.)"
+            },
+            {
+                "role": "user",
+                "content": "Replied to the following message: \"Sent an image (The image shows a plate with a floral design containing several small, rectangular pieces of white cheese, likely paneer. The plate is placed on a surface with a patterned cloth.)\", with: \"Only Salad \ud83e\udd57 \ud83d\ude0b\""
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 27\nPatient Preferred Language - ENGLISH\nPatient Conditions - Weight Management\nPatient Complaints - Irregular Periods\nDiet Preference - Nonveg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a plate with a floral design containing several small, rectangular pieces of white cheese, likely paneer. The plate is placed on a surface with a patterned cloth.)'}, {'role': 'user', 'content': 'Replied to the following message: \"Sent an image (The image shows a plate with a floral design containing several small, rectangular pieces of white cheese, likely paneer. The plate is placed on a surface with a patterned cloth.)\", with: \"Only Salad \ud83e\udd57 \ud83d\ude0b\"'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n    \ud83d\ude0b Try a refreshing salad using those cheeses! Add some crunchy veggies like bell peppers, cucumbers, and tomatoes to complete your meal. Remember to consume in moderation for weight management. \ufffd\ufffd\ufffdtown_food_cart\n\n    Ideal Meal: salad, bell peppers, cucumber, tomato\n    Latest Query: [{'role': 'user', 'content': 'Sent",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a meal consisting of a plate with sliced cucumbers and tomato wedges, and a metal tray with flatbreads (possibly chapati or roti), a bowl of curry, and a bowl of yogurt or raita. The setting appears to be on a table with a patterned tablecloth.) with the following caption Lunch."
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 45\nPatient Preferred Language - ENGLISH\nPatient Conditions - Weight Management with PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a meal consisting of a plate with sliced cucumbers and tomato wedges, and a metal tray with flatbreads (possibly chapati or roti), a bowl of curry, and a bowl of yogurt or raita. The setting appears to be on a table with a patterned tablecloth.) with the following caption Lunch.'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n    \ud83c\udf7d\ufe0f Fruits and vegetables are excellent additions to any meal, specifically for dishes like the one you've sent!\n\n    \ud83d\udd0d However, since you have a condition called Polycystic Ovary Syndrome (PCOS), it's essential to manage your weight, and eating a high-fiber diet can aid in this. Unfortunately, the fiber content of the cucumbers and tomatoes provided isn't substantial",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Yes mam I added later"
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 28\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS with PCOS\nPatient Complaints - Facial Hairgrowth, Irregular Periods\nDiet Preference - Eggetarian\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Yes mam I added later'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n     Sure, I have added the \"later\" meal for you! Here's a deliciously balanced option:\n\n[{'role': 'assistant', 'content': \"Ideal Meal: Breakfast - Apple Cinnamon Peanut Butter Oats\\n\"\n                                            \"Lunch - Spicy Lentil Soup with Brown Rice\\n\"\n                                            \"Snack - Hummus with Cucumber Sticks\\n\"",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a metal bowl containing a mix of roasted peanuts and puffed lotus seeds (makhana). The bowl is placed on a beige fabric with a pink embroidered design.)"
+            },
+            {
+                "role": "user",
+                "content": "1 glass milk @ 11:30"
+            },
+            {
+                "role": "user",
+                "content": "Replied to the following message: \"Sent an image (The image shows a metal bowl containing a mix of roasted peanuts and puffed lotus seeds (makhana). The bowl is placed on a beige fabric with a pink embroidered design.)\", with: \"@ 2:30\""
+            }
+        ],
+        "generated_response": "Patient Profile: Patient Preferred Language - ENGLISH\nPatient Conditions - Weight Management\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a metal bowl containing a mix of roasted peanuts and puffed lotus seeds (makhana). The bowl is placed on a beige fabric with a pink embroidered design.)'}, {'role': 'user', 'content': '1 glass milk @ 11:30'}, {'role': 'user', 'content': 'Replied to the following message: \"Sent an image (The image shows a metal bowl containing a mix of roasted peanuts and puffed lotus seeds (makhana). The bowl is placed on a beige fabric with a pink embroidered design.)\", with: \"@ 2:30\"'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n    2:30 - Rosanne, meet me in the kitchen for a nutritious snack. I have a delicious mix of roasted peanuts and puffed lotus seeds (makhana) prepared according to your diet preferences. Let's wash it down with a glass of milk at 11:30 as per your meal plan. Have a great day! :)",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a plate of food that includes a bowl of yellow lentil soup (dal) with a spoon in it, a piece of flatbread (roti), some cooked vegetables, and a slice of raw onion. The plate is placed on a table with a patterned tablecloth. A person's foot wearing a sandal is visible at the bottom of the image.) with the following caption Moong dal , little cabbage, jowar roti for lunch."
+            }
+        ],
+        "generated_response": "Patient Profile: Patient Preferred Language - ENGLISH\nPatient Conditions - Weight Management with Asthma, Hypertension\nPatient Complaints - Constipation\nDiet Preference - Nonveg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': \"Sent an image (The image shows a plate of food that includes a bowl of yellow lentil soup (dal) with a spoon in it, a piece of flatbread (roti), some cooked vegetables, and a slice of raw onion. The plate is placed on a table with a patterned tablecloth. A person's foot wearing a sandal is visible at the bottom of the image.) with the following caption Moong dal , little cabbage, jowar roti for lunch.\"}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n     Enjoy your nourishing Moong dal lunch! This nutritious meal contains protein from the dal, fiber from the cabbage, and complex carbohydrates from the jowar roti. The raw onion adds an additional layer of flavor while also potentially aiding digestion. As usual, enjoy with moderation!",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a small metal bowl filled with puffed snacks, likely makhana (fox nuts), and a ceramic cup with a wooden texture design containing a yellowish liquid, possibly tea. The items are placed on a fabric surface with a striped pattern visible in the background.) with the following caption Makhana nd spearmint tea."
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a small metal bowl filled with puffed snacks, likely makhana (fox nuts), and a ceramic cup with a wooden texture design containing a yellowish liquid, possibly tea. The items are placed on a fabric surface with a striped pattern visible in the background.) with the following caption Makhana nd spearmint tea.'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n    \ufffd\ufffd\ufffd Account created \ufffd\ufffd\ufffd\ufffd    Hello! It looks like you've shared a photo of some makhana (fox nuts) and spearmint tea. Makhana is a good low-calorie, high-fiber snack that can help manage weight and blood sugar levels. Spearmint tea, with its cooling properties, can aid digestion and alleviate menstrual discomfort, as it contains estrogens that act as phyto",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "i had bhindi and oats roti 2 in lunch a"
+            },
+            {
+                "role": "user",
+                "content": "and right now i had 2 apple pealed"
+            },
+            {
+                "role": "user",
+                "content": "i forgot to click pictures due to office hours"
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 29\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS with PCOS\nPatient Complaints - Difficulty in Conceiving, Facial Hairgrowth, Hair fall\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'i had bhindi and oats roti 2 in lunch a'}, {'role': 'user', 'content': 'and right now i had 2 apple pealed'}, {'role': 'user', 'content': 'i forgot to click pictures due to office hours'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n     Your meal on lunch was a good balanced one, consisting of bhindi (okra) and oats roti. Having 2 apples as snack is also a good choice. Remember to keep tracking your meals and keep us updated. We will try to help you with meal suggestions and adjustments as per your requirements and conditions. If you have any concerns or doubts, do let us know. Best wishes!\n\n\n\n    Ideal Meal: Ideal meal not found",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a glass container filled with a colorful vegetable and tofu stir-fry. The dish includes red, green, and yellow bell peppers, tomatoes, and tofu cubes, all mixed together. The container is placed on a wooden surface, and part of a person's arm, a bottle of hand sanitizer, and a laptop are visible in the background.) with the following caption Dinner."
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 29\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS with PCOS\nPatient Complaints - Difficulty in Conceiving, Facial Hairgrowth, Hair fall\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': \"Sent an image (The image shows a glass container filled with a colorful vegetable and tofu stir-fry. The dish includes red, green, and yellow bell peppers, tomatoes, and tofu cubes, all mixed together. The container is placed on a wooden surface, and part of a person's arm, a bottle of hand sanitizer, and a laptop are visible in the background.) with the following caption Dinner.\"}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n     [\"Dinner seems to be a balanced and healthy option for you as it includes a variety of vegetables and tofu, which are rich in nutrients and fiber. These foods can aid in managing PCOS symptoms and can also contribute to maintaining overall health. However, it's essential to keep track of portion sizes, especially with tofu, to avoid excess consumption of calories. Maintaining a regular meal plan, along with exercise and consultation with your health care provider, should help in",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Also i had lemon tea with it"
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 29\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS with PCOS\nPatient Complaints - Difficulty in Conceiving, Facial Hairgrowth, Hair fall\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Also i had lemon tea with it'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n     'Great! Adding lemon to your herbal tea can help improve liver function, aiding in hormonal balance. Keep substituting sugars with lemon to keep blood sugar levels stable, which can help manage PCOS symptoms.'",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Lemon water m honey or salt add kr skte h n?"
+            },
+            {
+                "role": "user",
+                "content": "Jeera water or souf water add nh kr skte kya?"
+            },
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a close-up of a bowl of cooked food, likely a type of soup or stew. The dish appears to contain small grains or lentils, along with pieces of vegetables and possibly some spices. The food has a reddish-brown color, indicating it might be seasoned with spices or a tomato-based sauce. A spoon is partially visible in the bowl.) with the following caption Vegetable dalia."
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Lemon water m honey or salt add kr skte h n?'}, {'role': 'user', 'content': 'Jeera water or souf water add nh kr skte kya?'}, {'role': 'user', 'content': 'Sent an image (The image shows a close-up of a bowl of cooked food, likely a type of soup or stew. The dish appears to contain small grains or lentils, along with pieces of vegetables and possibly some spices. The food has a reddish-brown color, indicating it might be seasoned with spices or a tomato-based sauce. A spoon is partially visible in the bowl.) with the following caption Vegetable dalia.'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n     ['Your vegetable dalia meal looks nourishing! To make it even more beneficial, you can add a squeeze of lemon to enhance its flavor and provide a bit of vitamin C. However, I would advise against adding salt or sugar to this meal, as you might want to keep a close eye on your blood sugar levels due to PCOS. Instead, consider using spices like turmeric or black pepper for additional flavor, but avoid excessive use. For liquids,",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Night drink"
+            },
+            {
+                "role": "user",
+                "content": "Ajwain"
+            }
+        ],
+        "generated_response": "Patient Profile: Patient Preferred Language - ENGLISH\nPatient Conditions - Weight Management\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Night drink'}, {'role': 'user', 'content': 'Ajwain'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n    1. Gem Goodnight Tea: Heat 1-2 cups of water. Add 1/2 teaspoon ajwain seeds, a pinch of fennel seeds, a pinch of cardamom powder, and 1 teaspoon of honey. Let it boil, then simmer for 10 minutes. Strain before drinking.\n\n    Note: This tea can help soothe your digestive system, and it should not interfere with weight management",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    },
+    {
+        "ticket_id": "N/A",
+        "latest_query": [
+            {
+                "role": "user",
+                "content": "Sent an image (The image shows a metallic cup filled with a brown liquid, likely tea or coffee, with a metallic spoon inside. The cup is placed on a textured surface, possibly a cloth or towel.) with the following caption Turmeric water."
+            }
+        ],
+        "generated_response": "Patient Profile: Age - 25\nPatient Preferred Language - ENGLISH\nPatient Conditions - PCOS\nPatient Nutritional Deficiencies - Hb\nDiet Preference - Veg\n\n    Ideal Meal: Ideal meal not found.\n    Latest Query: [{'role': 'user', 'content': 'Sent an image (The image shows a metallic cup filled with a brown liquid, likely tea or coffee, with a metallic spoon inside. The cup is placed on a textured surface, possibly a cloth or towel.) with the following caption Turmeric water.'}]\n    Based on the patient's diet chart and medical conditions, provide a concise response to the patient's latest query in the same messaging style they used.\n    \u95fb\u5230\u4e86\uff0c\u8fd9\u676f\u6df7\u5408\u4e86\ufffd kept turmeric \u7684\u6c34\u53ef\u80fd\u662f\u4e00\u4e2a\u5065\u5eb7\u7684\u9009\u62e9\uff0c\u4f46\u662f\u5176\u4e2d\u7684 swept sugar \u6216\u8005\u5176\u4ed6\u7cd6\u7c7b\u53ef\u80fd\u9700\u8981\u9650\u5236\u91cf\u3002\u8bf7\u8bb0\u677f\u8fd9\u4e2a\u98df\u8c31\uff0c\u4ee5\u4fbf\u5c06\u6765\u6709\u673a\u4f1a\u8fdb\u4e00\u6b65\u8c03\u6574\u6216\u6539\u8fdb\u5b83\u3002\n\n    Plant-Based Turmeric Water Recipe:\n    - Heat 1 cup",
+        "ideal_response": "This part needs to be determined based on the actual comparison."
+    }
+]
